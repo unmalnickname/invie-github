@@ -1,2 +1,2 @@
-# invie-github
-project of Platzi Academy for the GitHub course
+# invie
+Las guitarras más locas
